@@ -4,9 +4,9 @@ The Email Creator 3000 is a small Java app for a company to create email address
 
 ## Usage
 
-You can compile the Email Creator by running `javac *.java`.
+You can compile the Email Creator from the `emailcreator3000` folder with the command `javac *.java`.
 
-Then, run the application with `java emailapp.EmailApp`.
+Then, run the application with `java emailcreator3000`.
 
 ## Planned Updates
 
